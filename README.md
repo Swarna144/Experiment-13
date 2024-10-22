@@ -58,6 +58,13 @@ int main()
 }
 ```
 
+OUTPUT:-
+
+13
+
+![Ex 13 JPG](https://github.com/user-attachments/assets/bb5fbe3b-6b9d-48a8-a4cf-6992c3c94b56)
+
+
 CONCLUSION-
 → We learnt about constructor overloading in C++.
 → We learnt the use case of constructor overloading in C++.
